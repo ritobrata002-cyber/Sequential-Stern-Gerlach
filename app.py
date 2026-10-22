@@ -2,8 +2,9 @@
 app.py
 ======
 Interactive Sequential Stern-Gerlach Experiment Simulation.
-Production-ready Web Dashboard for Advanced Undergraduate Physics Evaluation & Viva.
+Production-ready Web Dashboard for Advanced Undergraduate Physics Evaluation.
 
+Contributor: ritobrata002-cyber (https://github.com/ritobrata002-cyber)
 Tech Stack: Streamlit, NumPy, Matplotlib.
 Run Command: streamlit run app.py
 """
@@ -229,6 +230,9 @@ with st.sidebar:
     st.markdown("### 3. Stochastic Sampling")
     num_atoms = st.slider("Silver Atoms (N):", 500, 50000, 10000, 500)
     resample_btn = st.button("🎲 Resample Monte Carlo Run", use_container_width=True)
+
+    st.markdown("---")
+    st.markdown("👨‍💻 **Contributor:** [ritobrata002-cyber](https://github.com/ritobrata002-cyber)")
 
 
 # ==============================================================================

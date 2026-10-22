@@ -161,3 +161,8 @@ The application will launch automatically in your default browser at `http://loc
 - J.J. Sakurai & J. Napolitano, *Modern Quantum Mechanics* (2nd/3rd Ed.), Chapter 1.
 - D.J. Griffiths & D.F. Schroeter, *Introduction to Quantum Mechanics* (3rd Ed.), Chapter 4.
 - R.P. Feynman, R.B. Leighton, & M. Sands, *The Feynman Lectures on Physics*, Vol. III, Chapter 5.
+
+---
+
+## 👨‍💻 Contributor
+- **[ritobrata002-cyber](https://github.com/ritobrata002-cyber)**

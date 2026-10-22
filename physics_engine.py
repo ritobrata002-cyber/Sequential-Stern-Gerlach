@@ -13,6 +13,9 @@ Authoritative Physics Content:
 - Bloch Sphere Vector Mapping and Density Matrix Support for Unpolarized Ensembles
 - Monte Carlo Stochastic Atom Sampling with Statistical Convergence Verification
 
+Contributor:
+- ritobrata002-cyber (https://github.com/ritobrata002-cyber)
+
 References:
 1. J.J. Sakurai, "Modern Quantum Mechanics", Chapter 1 (Fundamental Concepts).
 2. D.J. Griffiths, "Introduction to Quantum Mechanics", Chapter 4 (Quantum Mechanics in 3D).
